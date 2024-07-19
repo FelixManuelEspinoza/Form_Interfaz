@@ -1,0 +1,6 @@
+@Proyecto_pruebaGithubGrupal_HostAddress = http://localhost:5291
+
+GET {{Proyecto_pruebaGithubGrupal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

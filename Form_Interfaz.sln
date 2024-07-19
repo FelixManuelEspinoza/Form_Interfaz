@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_pruebaGithubGrupal", "Proyecto_pruebaGithubGrupal\Proyecto_pruebaGithubGrupal.csproj", "{D4F5CCE7-165D-43E2-B48E-48945269FE87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_pruebaGithubGrupal.BD", "Proyecto_pruebaGithubGrupal.BD\Proyecto_pruebaGithubGrupal.BD.csproj", "{DF2F8CEA-D965-4154-8991-452D903BBD14}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F5CCE7-165D-43E2-B48E-48945269FE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F5CCE7-165D-43E2-B48E-48945269FE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F5CCE7-165D-43E2-B48E-48945269FE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F5CCE7-165D-43E2-B48E-48945269FE87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF2F8CEA-D965-4154-8991-452D903BBD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF2F8CEA-D965-4154-8991-452D903BBD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF2F8CEA-D965-4154-8991-452D903BBD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF2F8CEA-D965-4154-8991-452D903BBD14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
